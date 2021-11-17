@@ -1,1 +1,0 @@
-# Platzi-curso-practico-JavaScript
